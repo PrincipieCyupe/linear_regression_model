@@ -2,7 +2,7 @@
 
 ## Mission and Problem Description
 
-My mission of modernizing the agriculture in Rwanda especially in my local community by using technology and Machine Learning approach which help the farmers to maximize the crop production. The problem I look forward to solve is the terrible production losses made by the farmers which affect their lives negatively. by helping them to predict crop production based on area, and crop type and this will enable them to make informed decisions and optimize their yields.
+My mission of modernizing the agriculture in Rwanda especially in my local community by using technology and Machine Learning approach which help the farmers to maximize the crop production. The problem I look forward to solve is the terrible production losses made by the farmers which affect their lives negatively. by helping them to predict crop production based on area, and crop type, it will enable them to make informed decisions and optimize their yields.
 
 ## Data Source
 
