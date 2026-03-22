@@ -1,0 +1,1033 @@
+Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1311,Avocados,2014,2014,ha,650,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1311,Avocados,2014,2014,hg/ha,116923,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1311,Avocados,2014,2014,tonnes,7600,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1312,Bananas,2014,2014,ha,409960,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1312,Bananas,2014,2014,hg/ha,25344,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1312,Bananas,2014,2014,tonnes,1039020,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,115,Barley,2014,2014,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,115,Barley,2014,2014,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1701,"Beans, dry",2014,2014,ha,465865,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1701,"Beans, dry",2014,2014,hg/ha,8914,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1701,"Beans, dry",2014,2014,tonnes,415259,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1212,Cabbages,2014,2014,ha,5595,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1212,Cabbages,2014,2014,hg/ha,127145,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1212,Cabbages,2014,2014,tonnes,71135.13,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1251,Carrots and turnips,2014,2014,ha,1682,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1251,Carrots and turnips,2014,2014,hg/ha,88672,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1251,Carrots and turnips,2014,2014,tonnes,14915.79,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1520.01,"Cassava, fresh",2014,2014,ha,68852,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1520.01,"Cassava, fresh",2014,2014,hg/ha,130748,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1520.01,"Cassava, fresh",2014,2014,tonnes,900227,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2014,2014,ha,323,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2014,2014,hg/ha,137584,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2014,2014,tonnes,4443.36,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1610,"Coffee, green",2014,2014,ha,55030,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1610,"Coffee, green",2014,2014,hg/ha,2976,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1610,"Coffee, green",2014,2014,tonnes,16379,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1233,Eggplants (aubergines),2014,2014,ha,6699,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1233,Eggplants (aubergines),2014,2014,hg/ha,76357,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1233,Eggplants (aubergines),2014,2014,tonnes,51153.54,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,142,"Groundnuts, excluding shelled",2014,2014,ha,27513,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,142,"Groundnuts, excluding shelled",2014,2014,hg/ha,3700,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,142,"Groundnuts, excluding shelled",2014,2014,tonnes,10181,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1254,Leeks and other alliaceous vegetables,2014,2014,ha,14132,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1254,Leeks and other alliaceous vegetables,2014,2014,hg/ha,1736,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1254,Leeks and other alliaceous vegetables,2014,2014,tonnes,2453.46,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1322,Lemons and limes,2014,2014,ha,1497,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1322,Lemons and limes,2014,2014,hg/ha,47251,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1322,Lemons and limes,2014,2014,tonnes,7073.43,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,112,Maize (corn),2014,2014,ha,233150,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,112,Maize (corn),2014,2014,hg/ha,25009,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,112,Maize (corn),2014,2014,tonnes,583096,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1316,"Mangoes, guavas and mangosteens",2014,2014,ha,3879,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1316,"Mangoes, guavas and mangosteens",2014,2014,hg/ha,33274,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1316,"Mangoes, guavas and mangosteens",2014,2014,tonnes,12905.73,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,118,Millet,2014,2014,ha,10941,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,118,Millet,2014,2014,hg/ha,4446,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,118,Millet,2014,2014,tonnes,4864.93,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1253.02,"Onions and shallots, dry (excluding dehydrated)",2014,2014,ha,2408,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1253.02,"Onions and shallots, dry (excluding dehydrated)",2014,2014,hg/ha,60052,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1253.02,"Onions and shallots, dry (excluding dehydrated)",2014,2014,tonnes,14462.99,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1323,Oranges,2014,2014,ha,2060,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1323,Oranges,2014,2014,hg/ha,18242,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1323,Oranges,2014,2014,tonnes,3758.21,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1241.9,"Other beans, green",2014,2014,ha,912,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1241.9,"Other beans, green",2014,2014,hg/ha,74909,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1241.9,"Other beans, green",2014,2014,tonnes,6832.11,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1359.9,"Other fruits, n.e.c.",2014,2014,ha,11289,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1359.9,"Other fruits, n.e.c.",2014,2014,hg/ha,68678,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1359.9,"Other fruits, n.e.c.",2014,2014,tonnes,77532.58,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2014,2014,ha,60,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2014,2014,hg/ha,21949,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2014,2014,tonnes,132.23,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1319,"Other tropical fruits, n.e.c.",2014,2014,ha,2007,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1319,"Other tropical fruits, n.e.c.",2014,2014,hg/ha,121217,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1319,"Other tropical fruits, n.e.c.",2014,2014,tonnes,24325.65,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1290.9,"Other vegetables, fresh n.e.c.",2014,2014,ha,9883,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1290.9,"Other vegetables, fresh n.e.c.",2014,2014,hg/ha,70482,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1290.9,"Other vegetables, fresh n.e.c.",2014,2014,tonnes,69653.75,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1317,Papayas,2014,2014,ha,229,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1317,Papayas,2014,2014,hg/ha,194330,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1317,Papayas,2014,2014,tonnes,4457.62,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1705,"Peas, dry",2014,2014,ha,37082,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1705,"Peas, dry",2014,2014,hg/ha,5468,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1705,"Peas, dry",2014,2014,tonnes,20276,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1651,"Pepper (Piper spp.), raw",2014,2014,ha,666,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1651,"Pepper (Piper spp.), raw",2014,2014,hg/ha,38035,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1651,"Pepper (Piper spp.), raw",2014,2014,tonnes,2531.7,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1318,Pineapples,2014,2014,ha,2000,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1318,Pineapples,2014,2014,hg/ha,97691,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1318,Pineapples,2014,2014,tonnes,19538.29,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1313,Plantains and cooking bananas,2014,2014,ha,222961,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1313,Plantains and cooking bananas,2014,2014,hg/ha,34339,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1313,Plantains and cooking bananas,2014,2014,tonnes,765629,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1510,Potatoes,2014,2014,ha,68208,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1510,Potatoes,2014,2014,hg/ha,105414,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1510,Potatoes,2014,2014,tonnes,719006,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1235,"Pumpkins, squash and gourds",2014,2014,ha,48267,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1235,"Pumpkins, squash and gourds",2014,2014,hg/ha,51440,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1235,"Pumpkins, squash and gourds",2014,2014,tonnes,248284.75,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1930.02,"Pyrethrum, dried flowers",2014,2014,ha,2173,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1930.02,"Pyrethrum, dried flowers",2014,2014,hg/ha,4371,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1930.02,"Pyrethrum, dried flowers",2014,2014,tonnes,949.61,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1443,Rape or colza seed,2014,2014,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1443,Rape or colza seed,2014,2014,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,113,Rice,2014,2014,ha,23770,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,113,Rice,2014,2014,hg/ha,30594,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,113,Rice,2014,2014,tonnes,72723,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1921.01,"Seed cotton, unginned",2014,2014,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1921.01,"Seed cotton, unginned",2014,2014,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,114,Sorghum,2014,2014,ha,137227,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,114,Sorghum,2014,2014,hg/ha,10244,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,114,Sorghum,2014,2014,tonnes,140578,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,141,Soya beans,2014,2014,ha,37728,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,141,Soya beans,2014,2014,hg/ha,4745,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,141,Soya beans,2014,2014,tonnes,17901,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1802,Sugar cane,2014,2014,ha,6168,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1802,Sugar cane,2014,2014,hg/ha,163866,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1802,Sugar cane,2014,2014,tonnes,101080.18,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1530,Sweet potatoes,2014,2014,ha,140977,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1530,Sweet potatoes,2014,2014,hg/ha,66733,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1530,Sweet potatoes,2014,2014,tonnes,940786,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1550,Taro,2014,2014,ha,24924,T,Unofficial figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1550,Taro,2014,2014,hg/ha,26833,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1550,Taro,2014,2014,tonnes,66879,T,Unofficial figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1620,Tea leaves,2014,2014,ha,17220,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1620,Tea leaves,2014,2014,hg/ha,62718,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1620,Tea leaves,2014,2014,tonnes,108000,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1234,Tomatoes,2014,2014,ha,8545,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1234,Tomatoes,2014,2014,hg/ha,137406,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1234,Tomatoes,2014,2014,tonnes,117414.59,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1970,Unmanufactured tobacco,2014,2014,ha,3913,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1970,Unmanufactured tobacco,2014,2014,hg/ha,11926,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1970,Unmanufactured tobacco,2014,2014,tonnes,4666.96,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,111,Wheat,2014,2014,ha,4204,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,111,Wheat,2014,2014,hg/ha,18759,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,111,Wheat,2014,2014,tonnes,7886,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1540,Yams,2014,2014,ha,6140,T,Unofficial figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1540,Yams,2014,2014,hg/ha,89117,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1540,Yams,2014,2014,tonnes,54718,T,Unofficial figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1311,Avocados,2015,2015,ha,680,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1311,Avocados,2015,2015,hg/ha,135294,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1311,Avocados,2015,2015,tonnes,9200,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1312,Bananas,2015,2015,ha,403274,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1312,Bananas,2015,2015,hg/ha,27210,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1312,Bananas,2015,2015,tonnes,1097304,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,115,Barley,2015,2015,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,115,Barley,2015,2015,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1701,"Beans, dry",2015,2015,ha,503546,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1701,"Beans, dry",2015,2015,hg/ha,8620,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1701,"Beans, dry",2015,2015,tonnes,434077,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1212,Cabbages,2015,2015,ha,4335,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1212,Cabbages,2015,2015,hg/ha,128232,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1212,Cabbages,2015,2015,tonnes,55590.1,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1251,Carrots and turnips,2015,2015,ha,1595,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1251,Carrots and turnips,2015,2015,hg/ha,89098,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1251,Carrots and turnips,2015,2015,tonnes,14208.12,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1520.01,"Cassava, fresh",2015,2015,ha,82915,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1520.01,"Cassava, fresh",2015,2015,hg/ha,111517,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1520.01,"Cassava, fresh",2015,2015,tonnes,924651,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2015,2015,ha,366,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2015,2015,hg/ha,120606,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2015,2015,tonnes,4414.35,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1610,"Coffee, green",2015,2015,ha,35500,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1610,"Coffee, green",2015,2015,hg/ha,6143,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1610,"Coffee, green",2015,2015,tonnes,21808,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1233,Eggplants (aubergines),2015,2015,ha,6194,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1233,Eggplants (aubergines),2015,2015,hg/ha,61136,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1233,Eggplants (aubergines),2015,2015,tonnes,37866.55,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,142,"Groundnuts, excluding shelled",2015,2015,ha,26712,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,142,"Groundnuts, excluding shelled",2015,2015,hg/ha,4173,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,142,"Groundnuts, excluding shelled",2015,2015,tonnes,11148,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1254,Leeks and other alliaceous vegetables,2015,2015,ha,15069,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1254,Leeks and other alliaceous vegetables,2015,2015,hg/ha,1760,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1254,Leeks and other alliaceous vegetables,2015,2015,tonnes,2652.8,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1322,Lemons and limes,2015,2015,ha,1490,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1322,Lemons and limes,2015,2015,hg/ha,48544,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1322,Lemons and limes,2015,2015,tonnes,7230.94,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,112,Maize (corn),2015,2015,ha,241713,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,112,Maize (corn),2015,2015,hg/ha,15313,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,112,Maize (corn),2015,2015,tonnes,370140,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1316,"Mangoes, guavas and mangosteens",2015,2015,ha,3597,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1316,"Mangoes, guavas and mangosteens",2015,2015,hg/ha,33755,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1316,"Mangoes, guavas and mangosteens",2015,2015,tonnes,12142.06,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,118,Millet,2015,2015,ha,10539,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,118,Millet,2015,2015,hg/ha,4707,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,118,Millet,2015,2015,tonnes,4960.25,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1253.02,"Onions and shallots, dry (excluding dehydrated)",2015,2015,ha,2649,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1253.02,"Onions and shallots, dry (excluding dehydrated)",2015,2015,hg/ha,58316,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1253.02,"Onions and shallots, dry (excluding dehydrated)",2015,2015,tonnes,15449.47,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1323,Oranges,2015,2015,ha,1995,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1323,Oranges,2015,2015,hg/ha,18656,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1323,Oranges,2015,2015,tonnes,3721.94,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1241.9,"Other beans, green",2015,2015,ha,974,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1241.9,"Other beans, green",2015,2015,hg/ha,79911,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1241.9,"Other beans, green",2015,2015,tonnes,7783.75,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1359.9,"Other fruits, n.e.c.",2015,2015,ha,11212,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1359.9,"Other fruits, n.e.c.",2015,2015,hg/ha,69771,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1359.9,"Other fruits, n.e.c.",2015,2015,tonnes,78226.24,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2015,2015,ha,58,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2015,2015,hg/ha,22853,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2015,2015,tonnes,131.76,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1319,"Other tropical fruits, n.e.c.",2015,2015,ha,2076,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1319,"Other tropical fruits, n.e.c.",2015,2015,hg/ha,121168,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1319,"Other tropical fruits, n.e.c.",2015,2015,tonnes,25157.59,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1290.9,"Other vegetables, fresh n.e.c.",2015,2015,ha,10010,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1290.9,"Other vegetables, fresh n.e.c.",2015,2015,hg/ha,70016,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1290.9,"Other vegetables, fresh n.e.c.",2015,2015,tonnes,70087.09,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1317,Papayas,2015,2015,ha,210,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1317,Papayas,2015,2015,hg/ha,177436,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1317,Papayas,2015,2015,tonnes,3725.37,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1705,"Peas, dry",2015,2015,ha,31853,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1705,"Peas, dry",2015,2015,hg/ha,5324,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1705,"Peas, dry",2015,2015,tonnes,16959,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1651,"Pepper (Piper spp.), raw",2015,2015,ha,692,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1651,"Pepper (Piper spp.), raw",2015,2015,hg/ha,37344,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1651,"Pepper (Piper spp.), raw",2015,2015,tonnes,2584.18,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1318,Pineapples,2015,2015,ha,2170,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1318,Pineapples,2015,2015,hg/ha,76482,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1318,Pineapples,2015,2015,tonnes,16596.15,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1313,Plantains and cooking bananas,2015,2015,ha,228432,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1313,Plantains and cooking bananas,2015,2015,hg/ha,33513,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1313,Plantains and cooking bananas,2015,2015,tonnes,765538,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1510,Potatoes,2015,2015,ha,78214,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1510,Potatoes,2015,2015,hg/ha,94948,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1510,Potatoes,2015,2015,tonnes,742626,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1235,"Pumpkins, squash and gourds",2015,2015,ha,48875,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1235,"Pumpkins, squash and gourds",2015,2015,hg/ha,51423,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1235,"Pumpkins, squash and gourds",2015,2015,tonnes,251329.88,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1930.02,"Pyrethrum, dried flowers",2015,2015,ha,3069,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1930.02,"Pyrethrum, dried flowers",2015,2015,hg/ha,4320,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1930.02,"Pyrethrum, dried flowers",2015,2015,tonnes,1325.85,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1443,Rape or colza seed,2015,2015,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1443,Rape or colza seed,2015,2015,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,113,Rice,2015,2015,ha,30204,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,113,Rice,2015,2015,hg/ha,32259,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,113,Rice,2015,2015,tonnes,97435,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1921.01,"Seed cotton, unginned",2015,2015,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1921.01,"Seed cotton, unginned",2015,2015,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,114,Sorghum,2015,2015,ha,137696,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,114,Sorghum,2015,2015,hg/ha,9680,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,114,Sorghum,2015,2015,tonnes,133295,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,141,Soya beans,2015,2015,ha,46010,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,141,Soya beans,2015,2015,hg/ha,4725,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,141,Soya beans,2015,2015,tonnes,21739,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1802,Sugar cane,2015,2015,ha,6604,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1802,Sugar cane,2015,2015,hg/ha,155321,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1802,Sugar cane,2015,2015,tonnes,102578.48,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1530,Sweet potatoes,2015,2015,ha,139706,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1530,Sweet potatoes,2015,2015,hg/ha,66642,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1530,Sweet potatoes,2015,2015,tonnes,931027,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1550,Taro,2015,2015,ha,29042,T,Unofficial figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1550,Taro,2015,2015,hg/ha,28317,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1550,Taro,2015,2015,tonnes,82237,T,Unofficial figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1620,Tea leaves,2015,2015,ha,17188,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1620,Tea leaves,2015,2015,hg/ha,64000,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1620,Tea leaves,2015,2015,tonnes,110000,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1234,Tomatoes,2015,2015,ha,9081,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1234,Tomatoes,2015,2015,hg/ha,130570,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1234,Tomatoes,2015,2015,tonnes,118570.38,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1970,Unmanufactured tobacco,2015,2015,ha,4369,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1970,Unmanufactured tobacco,2015,2015,hg/ha,11764,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1970,Unmanufactured tobacco,2015,2015,tonnes,5139.43,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,111,Wheat,2015,2015,ha,4419,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,111,Wheat,2015,2015,hg/ha,18094,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,111,Wheat,2015,2015,tonnes,7995,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1540,Yams,2015,2015,ha,7261,T,Unofficial figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1540,Yams,2015,2015,hg/ha,92666,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1540,Yams,2015,2015,tonnes,67285,T,Unofficial figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1311,Avocados,2016,2016,ha,634,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1311,Avocados,2016,2016,hg/ha,146675,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1311,Avocados,2016,2016,tonnes,9295.82,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1312,Bananas,2016,2016,ha,403275,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1312,Bananas,2016,2016,hg/ha,27962,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1312,Bananas,2016,2016,tonnes,1127643,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,115,Barley,2016,2016,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,115,Barley,2016,2016,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1701,"Beans, dry",2016,2016,ha,513137,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1701,"Beans, dry",2016,2016,hg/ha,8529,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1701,"Beans, dry",2016,2016,tonnes,437672.96,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1212,Cabbages,2016,2016,ha,3882,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1212,Cabbages,2016,2016,hg/ha,105963,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1212,Cabbages,2016,2016,tonnes,41136.71,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1251,Carrots and turnips,2016,2016,ha,1386,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1251,Carrots and turnips,2016,2016,hg/ha,78940,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1251,Carrots and turnips,2016,2016,tonnes,10939.05,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1520.01,"Cassava, fresh",2016,2016,ha,91887,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1520.01,"Cassava, fresh",2016,2016,hg/ha,101236,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1520.01,"Cassava, fresh",2016,2016,tonnes,930220,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2016,2016,ha,447,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2016,2016,hg/ha,99825,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2016,2016,tonnes,4460,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1610,"Coffee, green",2016,2016,ha,29964,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1610,"Coffee, green",2016,2016,hg/ha,8240,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1610,"Coffee, green",2016,2016,tonnes,24689.41,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1233,Eggplants (aubergines),2016,2016,ha,6121,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1233,Eggplants (aubergines),2016,2016,hg/ha,37155,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1233,Eggplants (aubergines),2016,2016,tonnes,22743.07,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,142,"Groundnuts, excluding shelled",2016,2016,ha,26065,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,142,"Groundnuts, excluding shelled",2016,2016,hg/ha,4320,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,142,"Groundnuts, excluding shelled",2016,2016,tonnes,11259.36,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1254,Leeks and other alliaceous vegetables,2016,2016,ha,14479,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1254,Leeks and other alliaceous vegetables,2016,2016,hg/ha,1749,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1254,Leeks and other alliaceous vegetables,2016,2016,tonnes,2532.01,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1322,Lemons and limes,2016,2016,ha,1460,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1322,Lemons and limes,2016,2016,hg/ha,46347,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1322,Lemons and limes,2016,2016,tonnes,6764.65,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,112,Maize (corn),2016,2016,ha,237658,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,112,Maize (corn),2016,2016,hg/ha,15748,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,112,Maize (corn),2016,2016,tonnes,374266.77,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1316,"Mangoes, guavas and mangosteens",2016,2016,ha,7290,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1316,"Mangoes, guavas and mangosteens",2016,2016,hg/ha,14985,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1316,"Mangoes, guavas and mangosteens",2016,2016,tonnes,10924.39,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,118,Millet,2016,2016,ha,10580,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,118,Millet,2016,2016,hg/ha,4774,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,118,Millet,2016,2016,tonnes,5051.2,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1253.02,"Onions and shallots, dry (excluding dehydrated)",2016,2016,ha,2877,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1253.02,"Onions and shallots, dry (excluding dehydrated)",2016,2016,hg/ha,50468,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1253.02,"Onions and shallots, dry (excluding dehydrated)",2016,2016,tonnes,14522.2,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1323,Oranges,2016,2016,ha,1852,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1323,Oranges,2016,2016,hg/ha,18834,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1323,Oranges,2016,2016,tonnes,3487.13,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1241.9,"Other beans, green",2016,2016,ha,942,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1241.9,"Other beans, green",2016,2016,hg/ha,74958,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1241.9,"Other beans, green",2016,2016,tonnes,7059.75,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1359.9,"Other fruits, n.e.c.",2016,2016,ha,11290,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1359.9,"Other fruits, n.e.c.",2016,2016,hg/ha,70590,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1359.9,"Other fruits, n.e.c.",2016,2016,tonnes,79694.02,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2016,2016,ha,60,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2016,2016,hg/ha,22153,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2016,2016,tonnes,132.67,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1319,"Other tropical fruits, n.e.c.",2016,2016,ha,2005,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1319,"Other tropical fruits, n.e.c.",2016,2016,hg/ha,121217,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1319,"Other tropical fruits, n.e.c.",2016,2016,tonnes,24305.62,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1290.9,"Other vegetables, fresh n.e.c.",2016,2016,ha,10171,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1290.9,"Other vegetables, fresh n.e.c.",2016,2016,hg/ha,69810,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1290.9,"Other vegetables, fresh n.e.c.",2016,2016,tonnes,71005.67,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1317,Papayas,2016,2016,ha,172,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1317,Papayas,2016,2016,hg/ha,169500,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1317,Papayas,2016,2016,tonnes,2920,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1705,"Peas, dry",2016,2016,ha,26147,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1705,"Peas, dry",2016,2016,hg/ha,6430,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1705,"Peas, dry",2016,2016,tonnes,16814.12,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1651,"Pepper (Piper spp.), raw",2016,2016,ha,729,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1651,"Pepper (Piper spp.), raw",2016,2016,hg/ha,34783,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1651,"Pepper (Piper spp.), raw",2016,2016,tonnes,2534.83,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1318,Pineapples,2016,2016,ha,3027,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1318,Pineapples,2016,2016,hg/ha,36896,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1318,Pineapples,2016,2016,tonnes,11166.6,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1313,Plantains and cooking bananas,2016,2016,ha,229490,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1313,Plantains and cooking bananas,2016,2016,hg/ha,33600,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1313,Plantains and cooking bananas,2016,2016,tonnes,771082,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1510,Potatoes,2016,2016,ha,106236,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1510,Potatoes,2016,2016,hg/ha,70718,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1510,Potatoes,2016,2016,tonnes,751283.74,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1235,"Pumpkins, squash and gourds",2016,2016,ha,49519,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1235,"Pumpkins, squash and gourds",2016,2016,hg/ha,51402,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1235,"Pumpkins, squash and gourds",2016,2016,tonnes,254538.79,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1930.02,"Pyrethrum, dried flowers",2016,2016,ha,3986,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1930.02,"Pyrethrum, dried flowers",2016,2016,hg/ha,2880,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1930.02,"Pyrethrum, dried flowers",2016,2016,tonnes,1147.98,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1443,Rape or colza seed,2016,2016,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1443,Rape or colza seed,2016,2016,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,113,Rice,2016,2016,ha,33430,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,113,Rice,2016,2016,hg/ha,33067,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,113,Rice,2016,2016,tonnes,110544.42,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1921.01,"Seed cotton, unginned",2016,2016,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1921.01,"Seed cotton, unginned",2016,2016,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,114,Sorghum,2016,2016,ha,165812,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,114,Sorghum,2016,2016,hg/ha,9881,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,114,Sorghum,2016,2016,tonnes,163832.32,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,141,Soya beans,2016,2016,ha,46446,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,141,Soya beans,2016,2016,hg/ha,4724,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,141,Soya beans,2016,2016,tonnes,21941.84,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1802,Sugar cane,2016,2016,ha,11030,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1802,Sugar cane,2016,2016,hg/ha,85063,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1802,Sugar cane,2016,2016,tonnes,93823.36,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1530,Sweet potatoes,2016,2016,ha,135575,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1530,Sweet potatoes,2016,2016,hg/ha,67795,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1530,Sweet potatoes,2016,2016,tonnes,919123.02,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1550,Taro,2016,2016,ha,40144,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1550,Taro,2016,2016,hg/ha,41398,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1550,Taro,2016,2016,tonnes,166189.18,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1620,Tea leaves,2016,2016,ha,17221,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1620,Tea leaves,2016,2016,hg/ha,64456,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1620,Tea leaves,2016,2016,tonnes,111000,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1234,Tomatoes,2016,2016,ha,10439,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1234,Tomatoes,2016,2016,hg/ha,113782,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1234,Tomatoes,2016,2016,tonnes,118774.32,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1970,Unmanufactured tobacco,2016,2016,ha,4101,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1970,Unmanufactured tobacco,2016,2016,hg/ha,11850,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1970,Unmanufactured tobacco,2016,2016,tonnes,4859.34,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,111,Wheat,2016,2016,ha,5817,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,111,Wheat,2016,2016,hg/ha,17060,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,111,Wheat,2016,2016,tonnes,9923,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1540,Yams,2016,2016,ha,6173,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1540,Yams,2016,2016,hg/ha,93750,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1540,Yams,2016,2016,tonnes,57875.96,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1311,Avocados,2017,2017,ha,950,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1311,Avocados,2017,2017,hg/ha,72762,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1311,Avocados,2017,2017,tonnes,6912.43,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1312,Bananas,2017,2017,ha,237849,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1312,Bananas,2017,2017,hg/ha,73114,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1312,Bananas,2017,2017,tonnes,1739007,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,115,Barley,2017,2017,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,115,Barley,2017,2017,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1701,"Beans, dry",2017,2017,ha,549441,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1701,"Beans, dry",2017,2017,hg/ha,8296,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1701,"Beans, dry",2017,2017,tonnes,455821.99,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1212,Cabbages,2017,2017,ha,7436,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1212,Cabbages,2017,2017,hg/ha,127655,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1212,Cabbages,2017,2017,tonnes,94924,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1251,Carrots and turnips,2017,2017,ha,2355,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1251,Carrots and turnips,2017,2017,hg/ha,58242,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1251,Carrots and turnips,2017,2017,tonnes,13714.75,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1520.01,"Cassava, fresh",2017,2017,ha,120000,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1520.01,"Cassava, fresh",2017,2017,hg/ha,86832,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1520.01,"Cassava, fresh",2017,2017,tonnes,1041986.2,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2017,2017,ha,698,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2017,2017,hg/ha,63221,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2017,2017,tonnes,4412.83,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1610,"Coffee, green",2017,2017,ha,29558,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1610,"Coffee, green",2017,2017,hg/ha,10731,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1610,"Coffee, green",2017,2017,tonnes,31717.52,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1233,Eggplants (aubergines),2017,2017,ha,6214,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1233,Eggplants (aubergines),2017,2017,hg/ha,82121,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1233,Eggplants (aubergines),2017,2017,tonnes,51031.77,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,142,"Groundnuts, excluding shelled",2017,2017,ha,45512,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,142,"Groundnuts, excluding shelled",2017,2017,hg/ha,4549,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,142,"Groundnuts, excluding shelled",2017,2017,tonnes,20703.46,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1254,Leeks and other alliaceous vegetables,2017,2017,ha,14560,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1254,Leeks and other alliaceous vegetables,2017,2017,hg/ha,1749,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1254,Leeks and other alliaceous vegetables,2017,2017,tonnes,2546.09,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1322,Lemons and limes,2017,2017,ha,1500,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1322,Lemons and limes,2017,2017,hg/ha,33333,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1322,Lemons and limes,2017,2017,tonnes,5000,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,112,Maize (corn),2017,2017,ha,297447,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,112,Maize (corn),2017,2017,hg/ha,12050,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,112,Maize (corn),2017,2017,tonnes,358417.19,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1316,"Mangoes, guavas and mangosteens",2017,2017,ha,1209,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1316,"Mangoes, guavas and mangosteens",2017,2017,hg/ha,87826,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1316,"Mangoes, guavas and mangosteens",2017,2017,tonnes,10618.87,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,118,Millet,2017,2017,ha,10687,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,118,Millet,2017,2017,hg/ha,4809,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,118,Millet,2017,2017,tonnes,5138.88,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1253.02,"Onions and shallots, dry (excluding dehydrated)",2017,2017,ha,2855,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1253.02,"Onions and shallots, dry (excluding dehydrated)",2017,2017,hg/ha,43704,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1253.02,"Onions and shallots, dry (excluding dehydrated)",2017,2017,tonnes,12478.76,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1323,Oranges,2017,2017,ha,1500,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1323,Oranges,2017,2017,hg/ha,18667,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1323,Oranges,2017,2017,tonnes,2800,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1241.9,"Other beans, green",2017,2017,ha,950,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1241.9,"Other beans, green",2017,2017,hg/ha,76379,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1241.9,"Other beans, green",2017,2017,tonnes,7254.16,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1359.9,"Other fruits, n.e.c.",2017,2017,ha,11330,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1359.9,"Other fruits, n.e.c.",2017,2017,hg/ha,71561,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1359.9,"Other fruits, n.e.c.",2017,2017,tonnes,81077.62,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2017,2017,ha,57,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2017,2017,hg/ha,23256,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2017,2017,tonnes,132.78,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1319,"Other tropical fruits, n.e.c.",2017,2017,ha,2043,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1319,"Other tropical fruits, n.e.c.",2017,2017,hg/ha,121190,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1319,"Other tropical fruits, n.e.c.",2017,2017,tonnes,24761.82,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1290.9,"Other vegetables, fresh n.e.c.",2017,2017,ha,10325,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1290.9,"Other vegetables, fresh n.e.c.",2017,2017,hg/ha,69619,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1290.9,"Other vegetables, fresh n.e.c.",2017,2017,tonnes,71881.36,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1317,Papayas,2017,2017,ha,503,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1317,Papayas,2017,2017,hg/ha,33042,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1317,Papayas,2017,2017,tonnes,1662,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1705,"Peas, dry",2017,2017,ha,19809,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1705,"Peas, dry",2017,2017,hg/ha,6269,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1705,"Peas, dry",2017,2017,tonnes,12419.22,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1651,"Pepper (Piper spp.), raw",2017,2017,ha,698,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1651,"Pepper (Piper spp.), raw",2017,2017,hg/ha,35954,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1651,"Pepper (Piper spp.), raw",2017,2017,tonnes,2509.89,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1318,Pineapples,2017,2017,ha,2382,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1318,Pineapples,2017,2017,hg/ha,80756,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1318,Pineapples,2017,2017,tonnes,19236,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1313,Plantains and cooking bananas,2017,2017,ha,96571,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1313,Plantains and cooking bananas,2017,2017,hg/ha,75732,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1313,Plantains and cooking bananas,2017,2017,tonnes,731349,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1510,Potatoes,2017,2017,ha,93991,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1510,Potatoes,2017,2017,hg/ha,90028,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1510,Potatoes,2017,2017,tonnes,846183.97,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1235,"Pumpkins, squash and gourds",2017,2017,ha,50154,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1235,"Pumpkins, squash and gourds",2017,2017,hg/ha,51389,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1235,"Pumpkins, squash and gourds",2017,2017,tonnes,257737.46,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1930.02,"Pyrethrum, dried flowers",2017,2017,ha,8453,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1930.02,"Pyrethrum, dried flowers",2017,2017,hg/ha,6013,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1930.02,"Pyrethrum, dried flowers",2017,2017,tonnes,5082.65,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1443,Rape or colza seed,2017,2017,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1443,Rape or colza seed,2017,2017,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,113,Rice,2017,2017,ha,31583,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,113,Rice,2017,2017,hg/ha,34499,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,113,Rice,2017,2017,tonnes,108958.15,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1921.01,"Seed cotton, unginned",2017,2017,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1921.01,"Seed cotton, unginned",2017,2017,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,114,Sorghum,2017,2017,ha,143490,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,114,Sorghum,2017,2017,hg/ha,10555,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,114,Sorghum,2017,2017,tonnes,151446.99,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,141,Soya beans,2017,2017,ha,53361,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,141,Soya beans,2017,2017,hg/ha,4485,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,141,Soya beans,2017,2017,tonnes,23933.88,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1802,Sugar cane,2017,2017,ha,7905,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1802,Sugar cane,2017,2017,hg/ha,125437,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1802,Sugar cane,2017,2017,tonnes,99160.67,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1530,Sweet potatoes,2017,2017,ha,184609,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1530,Sweet potatoes,2017,2017,hg/ha,58446,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1530,Sweet potatoes,2017,2017,tonnes,1078973.05,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1550,Taro,2017,2017,ha,55463,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1550,Taro,2017,2017,hg/ha,38767,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1550,Taro,2017,2017,tonnes,215015.43,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1620,Tea leaves,2017,2017,ha,18509,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1620,Tea leaves,2017,2017,hg/ha,65373,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1620,Tea leaves,2017,2017,tonnes,121000,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1234,Tomatoes,2017,2017,ha,11329,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1234,Tomatoes,2017,2017,hg/ha,85997,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1234,Tomatoes,2017,2017,tonnes,97426,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1970,Unmanufactured tobacco,2017,2017,ha,4139,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1970,Unmanufactured tobacco,2017,2017,hg/ha,11687,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1970,Unmanufactured tobacco,2017,2017,tonnes,4837.53,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,111,Wheat,2017,2017,ha,10758,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,111,Wheat,2017,2017,hg/ha,10157,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,111,Wheat,2017,2017,tonnes,10926.27,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1540,Yams,2017,2017,ha,6000,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1540,Yams,2017,2017,hg/ha,83333,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1540,Yams,2017,2017,tonnes,50000,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1311,Avocados,2018,2018,ha,152,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1311,Avocados,2018,2018,hg/ha,566846,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1311,Avocados,2018,2018,tonnes,8597.46,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1312,Bananas,2018,2018,ha,142244,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1312,Bananas,2018,2018,hg/ha,71005,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1312,Bananas,2018,2018,tonnes,1010000,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,115,Barley,2018,2018,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,115,Barley,2018,2018,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1701,"Beans, dry",2018,2018,ha,557209,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1701,"Beans, dry",2018,2018,hg/ha,8718,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1701,"Beans, dry",2018,2018,tonnes,485755.51,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1212,Cabbages,2018,2018,ha,5149,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1212,Cabbages,2018,2018,hg/ha,184498,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1212,Cabbages,2018,2018,tonnes,94994.47,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1251,Carrots and turnips,2018,2018,ha,1911,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1251,Carrots and turnips,2018,2018,hg/ha,83607,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1251,Carrots and turnips,2018,2018,tonnes,15975.65,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1520.01,"Cassava, fresh",2018,2018,ha,194717,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1520.01,"Cassava, fresh",2018,2018,hg/ha,57889,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1520.01,"Cassava, fresh",2018,2018,tonnes,1127199.78,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2018,2018,ha,817,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2018,2018,hg/ha,16844,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2018,2018,tonnes,1375.98,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1610,"Coffee, green",2018,2018,ha,23412,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1610,"Coffee, green",2018,2018,hg/ha,16506,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1610,"Coffee, green",2018,2018,tonnes,38643.34,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1233,Eggplants (aubergines),2018,2018,ha,6933,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1233,Eggplants (aubergines),2018,2018,hg/ha,114720,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1233,Eggplants (aubergines),2018,2018,tonnes,79533.49,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,142,"Groundnuts, excluding shelled",2018,2018,ha,41457,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,142,"Groundnuts, excluding shelled",2018,2018,hg/ha,5374,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,142,"Groundnuts, excluding shelled",2018,2018,tonnes,22279.47,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1254,Leeks and other alliaceous vegetables,2018,2018,ha,14702,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1254,Leeks and other alliaceous vegetables,2018,2018,hg/ha,1753,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1254,Leeks and other alliaceous vegetables,2018,2018,tonnes,2576.97,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1322,Lemons and limes,2018,2018,ha,1331,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1322,Lemons and limes,2018,2018,hg/ha,41266,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1322,Lemons and limes,2018,2018,tonnes,5491.43,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,112,Maize (corn),2018,2018,ha,296330,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,112,Maize (corn),2018,2018,hg/ha,14315,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,112,Maize (corn),2018,2018,tonnes,424203.68,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1316,"Mangoes, guavas and mangosteens",2018,2018,ha,301,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1316,"Mangoes, guavas and mangosteens",2018,2018,hg/ha,334902,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1316,"Mangoes, guavas and mangosteens",2018,2018,tonnes,10065.01,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,118,Millet,2018,2018,ha,10602,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,118,Millet,2018,2018,hg/ha,4763,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,118,Millet,2018,2018,tonnes,5050.11,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1253.02,"Onions and shallots, dry (excluding dehydrated)",2018,2018,ha,2302,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1253.02,"Onions and shallots, dry (excluding dehydrated)",2018,2018,hg/ha,62648,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1253.02,"Onions and shallots, dry (excluding dehydrated)",2018,2018,tonnes,14420.5,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1323,Oranges,2018,2018,ha,1393,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1323,Oranges,2018,2018,hg/ha,19163,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1323,Oranges,2018,2018,tonnes,2670.14,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1241.9,"Other beans, green",2018,2018,ha,955,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1241.9,"Other beans, green",2018,2018,hg/ha,77112,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1241.9,"Other beans, green",2018,2018,tonnes,7365.89,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1359.9,"Other fruits, n.e.c.",2018,2018,ha,11203,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1359.9,"Other fruits, n.e.c.",2018,2018,hg/ha,73310,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1359.9,"Other fruits, n.e.c.",2018,2018,tonnes,82125.6,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2018,2018,ha,58,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2018,2018,hg/ha,23086,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2018,2018,tonnes,134.39,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1319,"Other tropical fruits, n.e.c.",2018,2018,ha,2042,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1319,"Other tropical fruits, n.e.c.",2018,2018,hg/ha,121192,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1319,"Other tropical fruits, n.e.c.",2018,2018,tonnes,24741.68,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1290.9,"Other vegetables, fresh n.e.c.",2018,2018,ha,10510,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1290.9,"Other vegetables, fresh n.e.c.",2018,2018,hg/ha,69412,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1290.9,"Other vegetables, fresh n.e.c.",2018,2018,tonnes,72949.28,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1317,Papayas,2018,2018,ha,63,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1317,Papayas,2018,2018,hg/ha,99307,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1317,Papayas,2018,2018,tonnes,623.19,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1705,"Peas, dry",2018,2018,ha,25962,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1705,"Peas, dry",2018,2018,hg/ha,5711,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1705,"Peas, dry",2018,2018,tonnes,14827.08,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1651,"Pepper (Piper spp.), raw",2018,2018,ha,686,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1651,"Pepper (Piper spp.), raw",2018,2018,hg/ha,36770,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1651,"Pepper (Piper spp.), raw",2018,2018,tonnes,2522.02,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1318,Pineapples,2018,2018,ha,4382,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1318,Pineapples,2018,2018,hg/ha,40591,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1318,Pineapples,2018,2018,tonnes,17787.61,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1313,Plantains and cooking bananas,2018,2018,ha,90175,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1313,Plantains and cooking bananas,2018,2018,hg/ha,84247,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1313,Plantains and cooking bananas,2018,2018,tonnes,759696.2,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1510,Potatoes,2018,2018,ha,119220,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1510,Potatoes,2018,2018,hg/ha,76838,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1510,Potatoes,2018,2018,tonnes,916062.17,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1235,"Pumpkins, squash and gourds",2018,2018,ha,50585,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1235,"Pumpkins, squash and gourds",2018,2018,hg/ha,51833,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1235,"Pumpkins, squash and gourds",2018,2018,tonnes,262198.44,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1930.02,"Pyrethrum, dried flowers",2018,2018,ha,4869,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1930.02,"Pyrethrum, dried flowers",2018,2018,hg/ha,3466,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1930.02,"Pyrethrum, dried flowers",2018,2018,tonnes,1687.75,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1443,Rape or colza seed,2018,2018,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1443,Rape or colza seed,2018,2018,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,113,Rice,2018,2018,ha,32780,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,113,Rice,2018,2018,hg/ha,34741,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,113,Rice,2018,2018,tonnes,113880.46,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1921.01,"Seed cotton, unginned",2018,2018,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1921.01,"Seed cotton, unginned",2018,2018,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,114,Sorghum,2018,2018,ha,144137,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,114,Sorghum,2018,2018,hg/ha,10732,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,114,Sorghum,2018,2018,tonnes,154691.3,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,141,Soya beans,2018,2018,ha,54793,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,141,Soya beans,2018,2018,hg/ha,4163,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,141,Soya beans,2018,2018,tonnes,22809.42,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1802,Sugar cane,2018,2018,ha,7879,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1802,Sugar cane,2018,2018,hg/ha,125044,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1802,Sugar cane,2018,2018,tonnes,98520.84,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1530,Sweet potatoes,2018,2018,ha,173122,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1530,Sweet potatoes,2018,2018,hg/ha,68549,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1530,Sweet potatoes,2018,2018,tonnes,1186731.22,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1550,Taro,2018,2018,ha,30693,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1550,Taro,2018,2018,hg/ha,54731,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1550,Taro,2018,2018,tonnes,167983.97,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1620,Tea leaves,2018,2018,ha,20466,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1620,Tea leaves,2018,2018,hg/ha,65962,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1620,Tea leaves,2018,2018,tonnes,135000,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1234,Tomatoes,2018,2018,ha,7773,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1234,Tomatoes,2018,2018,hg/ha,138559,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1234,Tomatoes,2018,2018,tonnes,107702.94,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1970,Unmanufactured tobacco,2018,2018,ha,4304,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1970,Unmanufactured tobacco,2018,2018,hg/ha,11590,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1970,Unmanufactured tobacco,2018,2018,tonnes,4988.14,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,111,Wheat,2018,2018,ha,12225,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,111,Wheat,2018,2018,hg/ha,11022,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,111,Wheat,2018,2018,tonnes,13475.16,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1540,Yams,2018,2018,ha,5572,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1540,Yams,2018,2018,hg/ha,91983,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1540,Yams,2018,2018,tonnes,51253.21,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1311,Avocados,2019,2019,ha,220,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1311,Avocados,2019,2019,hg/ha,299517,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1311,Avocados,2019,2019,tonnes,6600.51,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1312,Bananas,2019,2019,ha,157256,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1312,Bananas,2019,2019,hg/ha,117683,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1312,Bananas,2019,2019,tonnes,1850632,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,115,Barley,2019,2019,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,115,Barley,2019,2019,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1701,"Beans, dry",2019,2019,ha,582670,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1701,"Beans, dry",2019,2019,hg/ha,8311,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1701,"Beans, dry",2019,2019,tonnes,484251,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1212,Cabbages,2019,2019,ha,3526,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1212,Cabbages,2019,2019,hg/ha,165845,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1212,Cabbages,2019,2019,tonnes,58480.08,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1251,Carrots and turnips,2019,2019,ha,2276,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1251,Carrots and turnips,2019,2019,hg/ha,139321,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1251,Carrots and turnips,2019,2019,tonnes,31703.54,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1520.01,"Cassava, fresh",2019,2019,ha,195135,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1520.01,"Cassava, fresh",2019,2019,hg/ha,60564,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1520.01,"Cassava, fresh",2019,2019,tonnes,1181825.24,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2019,2019,ha,1621,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2019,2019,hg/ha,41802,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2019,2019,tonnes,6774.17,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1610,"Coffee, green",2019,2019,ha,21793,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1610,"Coffee, green",2019,2019,hg/ha,13475,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1610,"Coffee, green",2019,2019,tonnes,29366.01,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1233,Eggplants (aubergines),2019,2019,ha,7661,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1233,Eggplants (aubergines),2019,2019,hg/ha,101166,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1233,Eggplants (aubergines),2019,2019,tonnes,77498.61,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,142,"Groundnuts, excluding shelled",2019,2019,ha,43920,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,142,"Groundnuts, excluding shelled",2019,2019,hg/ha,4454,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,142,"Groundnuts, excluding shelled",2019,2019,tonnes,19561.35,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1254,Leeks and other alliaceous vegetables,2019,2019,ha,14580,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1254,Leeks and other alliaceous vegetables,2019,2019,hg/ha,1750,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1254,Leeks and other alliaceous vegetables,2019,2019,tonnes,2551.69,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1322,Lemons and limes,2019,2019,ha,1462,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1322,Lemons and limes,2019,2019,hg/ha,50848,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1322,Lemons and limes,2019,2019,tonnes,7434.02,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,112,Maize (corn),2019,2019,ha,288298,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,112,Maize (corn),2019,2019,hg/ha,14610,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,112,Maize (corn),2019,2019,tonnes,421218.19,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1316,"Mangoes, guavas and mangosteens",2019,2019,ha,539,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1316,"Mangoes, guavas and mangosteens",2019,2019,hg/ha,69566,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1316,"Mangoes, guavas and mangosteens",2019,2019,tonnes,3748.45,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,118,Millet,2019,2019,ha,10623,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,118,Millet,2019,2019,hg/ha,4782,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,118,Millet,2019,2019,tonnes,5080.06,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1253.02,"Onions and shallots, dry (excluding dehydrated)",2019,2019,ha,3522,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1253.02,"Onions and shallots, dry (excluding dehydrated)",2019,2019,hg/ha,115686,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1253.02,"Onions and shallots, dry (excluding dehydrated)",2019,2019,tonnes,40741.92,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1323,Oranges,2019,2019,ha,1498,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1323,Oranges,2019,2019,hg/ha,19485,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1323,Oranges,2019,2019,tonnes,2918.4,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1241.9,"Other beans, green",2019,2019,ha,949,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1241.9,"Other beans, green",2019,2019,hg/ha,76155,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1241.9,"Other beans, green",2019,2019,tonnes,7226.6,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1359.9,"Other fruits, n.e.c.",2019,2019,ha,11196,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1359.9,"Other fruits, n.e.c.",2019,2019,hg/ha,72315,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1359.9,"Other fruits, n.e.c.",2019,2019,tonnes,80965.75,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2019,2019,ha,58,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2019,2019,hg/ha,22866,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2019,2019,tonnes,133.54,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1319,"Other tropical fruits, n.e.c.",2019,2019,ha,2030,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1319,"Other tropical fruits, n.e.c.",2019,2019,hg/ha,121200,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1319,"Other tropical fruits, n.e.c.",2019,2019,tonnes,24603.04,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1290.9,"Other vegetables, fresh n.e.c.",2019,2019,ha,10335,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1290.9,"Other vegetables, fresh n.e.c.",2019,2019,hg/ha,71151,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1290.9,"Other vegetables, fresh n.e.c.",2019,2019,tonnes,73536.59,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1317,Papayas,2019,2019,ha,171,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1317,Papayas,2019,2019,hg/ha,129122,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1317,Papayas,2019,2019,tonnes,2211.35,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1705,"Peas, dry",2019,2019,ha,24772,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1705,"Peas, dry",2019,2019,hg/ha,6217,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1705,"Peas, dry",2019,2019,tonnes,15400.3,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1651,"Pepper (Piper spp.), raw",2019,2019,ha,681,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1651,"Pepper (Piper spp.), raw",2019,2019,hg/ha,37262,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1651,"Pepper (Piper spp.), raw",2019,2019,tonnes,2537.73,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1318,Pineapples,2019,2019,ha,5434,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1318,Pineapples,2019,2019,hg/ha,66928,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1318,Pineapples,2019,2019,tonnes,36371.73,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1313,Plantains and cooking bananas,2019,2019,ha,86707,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1313,Plantains and cooking bananas,2019,2019,hg/ha,94400,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1313,Plantains and cooking bananas,2019,2019,tonnes,818515.21,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1510,Potatoes,2019,2019,ha,107590,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1510,Potatoes,2019,2019,hg/ha,90474,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1510,Potatoes,2019,2019,tonnes,973407.9,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1235,"Pumpkins, squash and gourds",2019,2019,ha,50440,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1235,"Pumpkins, squash and gourds",2019,2019,hg/ha,52113,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1235,"Pumpkins, squash and gourds",2019,2019,tonnes,262857.8,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1930.02,"Pyrethrum, dried flowers",2019,2019,ha,8769,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1930.02,"Pyrethrum, dried flowers",2019,2019,hg/ha,3414,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1930.02,"Pyrethrum, dried flowers",2019,2019,tonnes,2993.34,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1443,Rape or colza seed,2019,2019,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1443,Rape or colza seed,2019,2019,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,113,Rice,2019,2019,ha,32896,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,113,Rice,2019,2019,hg/ha,39998,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,113,Rice,2019,2019,tonnes,131576.89,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1921.01,"Seed cotton, unginned",2019,2019,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1921.01,"Seed cotton, unginned",2019,2019,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,114,Sorghum,2019,2019,ha,161850,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,114,Sorghum,2019,2019,hg/ha,9863,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,114,Sorghum,2019,2019,tonnes,159625.77,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,141,Soya beans,2019,2019,ha,46695,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,141,Soya beans,2019,2019,hg/ha,5252,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,141,Soya beans,2019,2019,tonnes,24525.63,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1802,Sugar cane,2019,2019,ha,7869,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1802,Sugar cane,2019,2019,hg/ha,123488,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1802,Sugar cane,2019,2019,tonnes,97168.29,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1530,Sweet potatoes,2019,2019,ha,183889,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1530,Sweet potatoes,2019,2019,hg/ha,67845,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1530,Sweet potatoes,2019,2019,tonnes,1247583.96,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1550,Taro,2019,2019,ha,28163,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1550,Taro,2019,2019,hg/ha,61002,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1550,Taro,2019,2019,tonnes,171803.41,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1620,Tea leaves,2019,2019,ha,20851,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1620,Tea leaves,2019,2019,hg/ha,64446,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1620,Tea leaves,2019,2019,tonnes,134378.13,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1234,Tomatoes,2019,2019,ha,10731,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1234,Tomatoes,2019,2019,hg/ha,98551,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1234,Tomatoes,2019,2019,tonnes,105757.79,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1970,Unmanufactured tobacco,2019,2019,ha,4181,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1970,Unmanufactured tobacco,2019,2019,hg/ha,11890,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1970,Unmanufactured tobacco,2019,2019,tonnes,4971.44,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,111,Wheat,2019,2019,ha,13234,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,111,Wheat,2019,2019,hg/ha,11853,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,111,Wheat,2019,2019,tonnes,15686.27,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1540,Yams,2019,2019,ha,6078,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1540,Yams,2019,2019,hg/ha,100445,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1540,Yams,2019,2019,tonnes,61055.42,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1311,Avocados,2020,2020,ha,293,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1311,Avocados,2020,2020,hg/ha,221004,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1311,Avocados,2020,2020,tonnes,6477.49,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1312,Bananas,2020,2020,ha,178983,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1312,Bananas,2020,2020,hg/ha,113534,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1312,Bananas,2020,2020,tonnes,2032073,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,115,Barley,2020,2020,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,115,Barley,2020,2020,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1701,"Beans, dry",2020,2020,ha,647983,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1701,"Beans, dry",2020,2020,hg/ha,6771,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1701,"Beans, dry",2020,2020,tonnes,438735.56,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1212,Cabbages,2020,2020,ha,3729,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1212,Cabbages,2020,2020,hg/ha,164236,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1212,Cabbages,2020,2020,tonnes,61244.61,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1251,Carrots and turnips,2020,2020,ha,3563,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1251,Carrots and turnips,2020,2020,hg/ha,132855,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1251,Carrots and turnips,2020,2020,tonnes,47334.67,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1520.01,"Cassava, fresh",2020,2020,ha,192156,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1520.01,"Cassava, fresh",2020,2020,hg/ha,66591,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1520.01,"Cassava, fresh",2020,2020,tonnes,1279581.83,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2020,2020,ha,1315,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2020,2020,hg/ha,34950,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2020,2020,tonnes,4595.48,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1610,"Coffee, green",2020,2020,ha,17208,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1610,"Coffee, green",2020,2020,hg/ha,11889,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1610,"Coffee, green",2020,2020,tonnes,20459,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1233,Eggplants (aubergines),2020,2020,ha,7713,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1233,Eggplants (aubergines),2020,2020,hg/ha,107849,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1233,Eggplants (aubergines),2020,2020,tonnes,83186.31,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,142,"Groundnuts, excluding shelled",2020,2020,ha,35901,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,142,"Groundnuts, excluding shelled",2020,2020,hg/ha,4541,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,142,"Groundnuts, excluding shelled",2020,2020,tonnes,16303.7,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1254,Leeks and other alliaceous vegetables,2020,2020,ha,14614,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1254,Leeks and other alliaceous vegetables,2020,2020,hg/ha,1751,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1254,Leeks and other alliaceous vegetables,2020,2020,tonnes,2558.25,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1322,Lemons and limes,2020,2020,ha,1445,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1322,Lemons and limes,2020,2020,hg/ha,48905,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1322,Lemons and limes,2020,2020,tonnes,7068.92,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,112,Maize (corn),2020,2020,ha,294439,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,112,Maize (corn),2020,2020,hg/ha,15237,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,112,Maize (corn),2020,2020,tonnes,448632.58,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1316,"Mangoes, guavas and mangosteens",2020,2020,ha,175,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1316,"Mangoes, guavas and mangosteens",2020,2020,hg/ha,123056,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1316,"Mangoes, guavas and mangosteens",2020,2020,tonnes,2148.38,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,118,Millet,2020,2020,ha,10637,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,118,Millet,2020,2020,hg/ha,4785,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,118,Millet,2020,2020,tonnes,5089.68,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1253.02,"Onions and shallots, dry (excluding dehydrated)",2020,2020,ha,3629,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1253.02,"Onions and shallots, dry (excluding dehydrated)",2020,2020,hg/ha,94502,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1253.02,"Onions and shallots, dry (excluding dehydrated)",2020,2020,tonnes,34297.44,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1323,Oranges,2020,2020,ha,1353,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1323,Oranges,2020,2020,hg/ha,19405,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1323,Oranges,2020,2020,tonnes,2626.17,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1241.9,"Other beans, green",2020,2020,ha,951,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1241.9,"Other beans, green",2020,2020,hg/ha,76550,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1241.9,"Other beans, green",2020,2020,tonnes,7282.21,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1359.9,"Other fruits, n.e.c.",2020,2020,ha,11177,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1359.9,"Other fruits, n.e.c.",2020,2020,hg/ha,72819,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1359.9,"Other fruits, n.e.c.",2020,2020,tonnes,81389.65,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2020,2020,ha,58,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2020,2020,hg/ha,23182,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2020,2020,tonnes,134.23,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1319,"Other tropical fruits, n.e.c.",2020,2020,ha,2038,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1319,"Other tropical fruits, n.e.c.",2020,2020,hg/ha,121194,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1319,"Other tropical fruits, n.e.c.",2020,2020,tonnes,24702.18,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1290.9,"Other vegetables, fresh n.e.c.",2020,2020,ha,10390,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1290.9,"Other vegetables, fresh n.e.c.",2020,2020,hg/ha,70057,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1290.9,"Other vegetables, fresh n.e.c.",2020,2020,tonnes,72789.08,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1317,Papayas,2020,2020,ha,107,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1317,Papayas,2020,2020,hg/ha,212328,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1317,Papayas,2020,2020,tonnes,2277.92,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1705,"Peas, dry",2020,2020,ha,17261,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1705,"Peas, dry",2020,2020,hg/ha,8084,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1705,"Peas, dry",2020,2020,tonnes,13953.24,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1651,"Pepper (Piper spp.), raw",2020,2020,ha,691,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1651,"Pepper (Piper spp.), raw",2020,2020,hg/ha,36975,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1651,"Pepper (Piper spp.), raw",2020,2020,tonnes,2553.55,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1318,Pineapples,2020,2020,ha,3579,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1318,Pineapples,2020,2020,hg/ha,49821,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1318,Pineapples,2020,2020,tonnes,17828.74,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1313,Plantains and cooking bananas,2020,2020,ha,106409,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1313,Plantains and cooking bananas,2020,2020,hg/ha,85823,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1313,Plantains and cooking bananas,2020,2020,tonnes,913231.28,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1510,Potatoes,2020,2020,ha,104494,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1510,Potatoes,2020,2020,hg/ha,82160,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1510,Potatoes,2020,2020,tonnes,858521.46,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1235,"Pumpkins, squash and gourds",2020,2020,ha,50613,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1235,"Pumpkins, squash and gourds",2020,2020,hg/ha,51554,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1235,"Pumpkins, squash and gourds",2020,2020,tonnes,260931.23,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1930.02,"Pyrethrum, dried flowers",2020,2020,ha,4867,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1930.02,"Pyrethrum, dried flowers",2020,2020,hg/ha,2636,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1930.02,"Pyrethrum, dried flowers",2020,2020,tonnes,1283.07,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1443,Rape or colza seed,2020,2020,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1443,Rape or colza seed,2020,2020,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,113,Rice,2020,2020,ha,29584,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,113,Rice,2020,2020,hg/ha,39381,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,113,Rice,2020,2020,tonnes,116504.47,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1921.01,"Seed cotton, unginned",2020,2020,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1921.01,"Seed cotton, unginned",2020,2020,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,114,Sorghum,2020,2020,ha,169419,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,114,Sorghum,2020,2020,hg/ha,10063,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,114,Sorghum,2020,2020,tonnes,170489.08,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,141,Soya beans,2020,2020,ha,48488,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,141,Soya beans,2020,2020,hg/ha,4899,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,141,Soya beans,2020,2020,tonnes,23754.65,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1802,Sugar cane,2020,2020,ha,8309,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1802,Sugar cane,2020,2020,hg/ha,118286,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1802,Sugar cane,2020,2020,tonnes,98283.27,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1530,Sweet potatoes,2020,2020,ha,179555,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1530,Sweet potatoes,2020,2020,hg/ha,71043,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1530,Sweet potatoes,2020,2020,tonnes,1275614.12,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1550,Taro,2020,2020,ha,29015,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1550,Taro,2020,2020,hg/ha,64808,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1550,Taro,2020,2020,tonnes,188041.76,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1620,Tea leaves,2020,2020,ha,22348,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1620,Tea leaves,2020,2020,hg/ha,62647,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1620,Tea leaves,2020,2020,tonnes,140004.94,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1234,Tomatoes,2020,2020,ha,12930,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1234,Tomatoes,2020,2020,hg/ha,70001,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1234,Tomatoes,2020,2020,tonnes,90508.96,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1970,Unmanufactured tobacco,2020,2020,ha,4208,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1970,Unmanufactured tobacco,2020,2020,hg/ha,11858,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1970,Unmanufactured tobacco,2020,2020,tonnes,4989.94,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,111,Wheat,2020,2020,ha,12309,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,111,Wheat,2020,2020,hg/ha,10408,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,111,Wheat,2020,2020,tonnes,12811.42,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1540,Yams,2020,2020,ha,5951,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1540,Yams,2020,2020,hg/ha,103731,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1540,Yams,2020,2020,tonnes,61732.64,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1311,Avocados,2021,2021,ha,286,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1311,Avocados,2021,2021,hg/ha,207912,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1311,Avocados,2021,2021,tonnes,5950.33,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1312,Bananas,2021,2021,ha,187611,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1312,Bananas,2021,2021,hg/ha,114272,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1312,Bananas,2021,2021,tonnes,2143866,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,115,Barley,2021,2021,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,115,Barley,2021,2021,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1701,"Beans, dry",2021,2021,ha,694481,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1701,"Beans, dry",2021,2021,hg/ha,7084,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1701,"Beans, dry",2021,2021,tonnes,491976,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1212,Cabbages,2021,2021,ha,4280,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1212,Cabbages,2021,2021,hg/ha,146091,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1212,Cabbages,2021,2021,tonnes,62527.33,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1251,Carrots and turnips,2021,2021,ha,3207,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1251,Carrots and turnips,2021,2021,hg/ha,142137,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1251,Carrots and turnips,2021,2021,tonnes,45588.88,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1520.01,"Cassava, fresh",2021,2021,ha,90121,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1520.01,"Cassava, fresh",2021,2021,hg/ha,146456,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1520.01,"Cassava, fresh",2021,2021,tonnes,1319875,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2021,2021,ha,1259,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2021,2021,hg/ha,35808,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2021,2021,tonnes,4508.36,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1610,"Coffee, green",2021,2021,ha,18220,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1610,"Coffee, green",2021,2021,hg/ha,10685,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1610,"Coffee, green",2021,2021,tonnes,19466.88,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1233,Eggplants (aubergines),2021,2021,ha,8691,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1233,Eggplants (aubergines),2021,2021,hg/ha,108493,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1233,Eggplants (aubergines),2021,2021,tonnes,94291.64,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,142,"Groundnuts, excluding shelled",2021,2021,ha,37512,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,142,"Groundnuts, excluding shelled",2021,2021,hg/ha,4552,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,142,"Groundnuts, excluding shelled",2021,2021,tonnes,17076,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1254,Leeks and other alliaceous vegetables,2021,2021,ha,14632,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1254,Leeks and other alliaceous vegetables,2021,2021,hg/ha,1751,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1254,Leeks and other alliaceous vegetables,2021,2021,tonnes,2562.3,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1322,Lemons and limes,2021,2021,ha,1440,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1322,Lemons and limes,2021,2021,hg/ha,49812,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1322,Lemons and limes,2021,2021,tonnes,7171.81,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,112,Maize (corn),2021,2021,ha,317212,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,112,Maize (corn),2021,2021,hg/ha,15216,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,112,Maize (corn),2021,2021,tonnes,482682,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1316,"Mangoes, guavas and mangosteens",2021,2021,ha,308,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1316,"Mangoes, guavas and mangosteens",2021,2021,hg/ha,60701,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1316,"Mangoes, guavas and mangosteens",2021,2021,tonnes,1870.48,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,118,Millet,2021,2021,ha,10621,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,118,Millet,2021,2021,hg/ha,4777,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,118,Millet,2021,2021,tonnes,5073.28,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1253.02,"Onions and shallots, dry (excluding dehydrated)",2021,2021,ha,3904,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1253.02,"Onions and shallots, dry (excluding dehydrated)",2021,2021,hg/ha,95394,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1253.02,"Onions and shallots, dry (excluding dehydrated)",2021,2021,tonnes,37238.72,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1323,Oranges,2021,2021,ha,1258,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1323,Oranges,2021,2021,hg/ha,19555,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1323,Oranges,2021,2021,tonnes,2459.12,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1241.9,"Other beans, green",2021,2021,ha,952,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1241.9,"Other beans, green",2021,2021,hg/ha,76607,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1241.9,"Other beans, green",2021,2021,tonnes,7291.56,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1359.9,"Other fruits, n.e.c.",2021,2021,ha,11158,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1359.9,"Other fruits, n.e.c.",2021,2021,hg/ha,73035,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1359.9,"Other fruits, n.e.c.",2021,2021,tonnes,81493.67,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2021,2021,ha,58,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2021,2021,hg/ha,23193,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1699,"Other stimulant, spice and aromatic crops, n.e.c.",2021,2021,tonnes,134.92,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1319,"Other tropical fruits, n.e.c.",2021,2021,ha,2037,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1319,"Other tropical fruits, n.e.c.",2021,2021,hg/ha,121195,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1319,"Other tropical fruits, n.e.c.",2021,2021,tonnes,24682.3,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1290.9,"Other vegetables, fresh n.e.c.",2021,2021,ha,10412,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1290.9,"Other vegetables, fresh n.e.c.",2021,2021,hg/ha,70202,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1290.9,"Other vegetables, fresh n.e.c.",2021,2021,tonnes,73091.65,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1317,Papayas,2021,2021,ha,27,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1317,Papayas,2021,2021,hg/ha,481352,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1317,Papayas,2021,2021,tonnes,1307.82,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1705,"Peas, dry",2021,2021,ha,19179,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1705,"Peas, dry",2021,2021,hg/ha,8152,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1705,"Peas, dry",2021,2021,tonnes,15635,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1651,"Pepper (Piper spp.), raw",2021,2021,ha,632,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1651,"Pepper (Piper spp.), raw",2021,2021,hg/ha,36689,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1651,"Pepper (Piper spp.), raw",2021,2021,tonnes,2319.62,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1318,Pineapples,2021,2021,ha,3319,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1318,Pineapples,2021,2021,hg/ha,62639,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1318,Pineapples,2021,2021,tonnes,20786.92,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1313,Plantains and cooking bananas,2021,2021,ha,96983,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1313,Plantains and cooking bananas,2021,2021,hg/ha,93588,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1313,Plantains and cooking bananas,2021,2021,tonnes,907640,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1510,Potatoes,2021,2021,ha,113458,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1510,Potatoes,2021,2021,hg/ha,82699,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1510,Potatoes,2021,2021,tonnes,938281,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1235,"Pumpkins, squash and gourds",2021,2021,ha,50765,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1235,"Pumpkins, squash and gourds",2021,2021,hg/ha,51610,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1235,"Pumpkins, squash and gourds",2021,2021,tonnes,261995.82,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1930.02,"Pyrethrum, dried flowers",2021,2021,ha,5172,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1930.02,"Pyrethrum, dried flowers",2021,2021,hg/ha,2889,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1930.02,"Pyrethrum, dried flowers",2021,2021,tonnes,1494.24,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1443,Rape or colza seed,2021,2021,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1443,Rape or colza seed,2021,2021,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,113,Rice,2021,2021,ha,31676,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,113,Rice,2021,2021,hg/ha,41596,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,113,Rice,2021,2021,tonnes,131758,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1921.01,"Seed cotton, unginned",2021,2021,ha,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1921.01,"Seed cotton, unginned",2021,2021,tonnes,0,M,"Missing value (data cannot exist, not applicable)"
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,114,Sorghum,2021,2021,ha,166669,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,114,Sorghum,2021,2021,hg/ha,10702,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,114,Sorghum,2021,2021,tonnes,178370,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,141,Soya beans,2021,2021,ha,53808,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,141,Soya beans,2021,2021,hg/ha,4991,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,141,Soya beans,2021,2021,tonnes,26857,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1802,Sugar cane,2021,2021,ha,8019,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1802,Sugar cane,2021,2021,hg/ha,122201,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1802,Sugar cane,2021,2021,tonnes,97990.8,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1530,Sweet potatoes,2021,2021,ha,192484,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1530,Sweet potatoes,2021,2021,hg/ha,69032,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1530,Sweet potatoes,2021,2021,tonnes,1328750,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1550,Taro,2021,2021,ha,30629,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1550,Taro,2021,2021,hg/ha,65577,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1550,Taro,2021,2021,tonnes,200856,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1620,Tea leaves,2021,2021,ha,26309,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1620,Tea leaves,2021,2021,hg/ha,56873,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1620,Tea leaves,2021,2021,tonnes,149627.41,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1234,Tomatoes,2021,2021,ha,10876,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1234,Tomatoes,2021,2021,hg/ha,86049,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1234,Tomatoes,2021,2021,tonnes,93586.87,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1970,Unmanufactured tobacco,2021,2021,ha,4231,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1970,Unmanufactured tobacco,2021,2021,hg/ha,11838,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1970,Unmanufactured tobacco,2021,2021,tonnes,5008.44,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,111,Wheat,2021,2021,ha,13167,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,111,Wheat,2021,2021,hg/ha,10393,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5510,Production,111,Wheat,2021,2021,tonnes,13684,A,Official figure
+QCL,Crops and livestock products,646,Rwanda,5312,Area harvested,1540,Yams,2021,2021,ha,5992,I,Imputed value
+QCL,Crops and livestock products,646,Rwanda,5419,Yield,1540,Yams,2021,2021,hg/ha,106430,E,Estimated value
+QCL,Crops and livestock products,646,Rwanda,5510,Production,1540,Yams,2021,2021,tonnes,63770.81,I,Imputed value
