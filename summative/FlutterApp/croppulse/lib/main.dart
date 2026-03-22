@@ -1,5 +1,4 @@
 import 'dart:convert';
-
 import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -14,6 +13,7 @@ class CropPulseApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // Defining the colors to use throughout the app for consistency and easy maintenance
     const bgColor = Color(0xFF222836);
     const cardColor = Color(0xFF2A3040);
     const accentColor = Color(0xFFC778DD);
@@ -80,7 +80,8 @@ class CropPulseHomePage extends StatefulWidget {
 }
 
 class _CropPulseHomePageState extends State<CropPulseHomePage> {
-  static const String baseUrl = 'https://cropproductionpredictionapi.onrender.com';
+  static const String baseUrl =
+      'https://cropproductionpredictionapi.onrender.com';
 
   final _formKey = GlobalKey<FormState>();
   final TextEditingController _yearController = TextEditingController();
@@ -191,7 +192,8 @@ class _CropPulseHomePageState extends State<CropPulseHomePage> {
       } else {
         setState(() {
           _predictionIsError = true;
-          _resultMessage = decoded['detail']?.toString() ??
+          _resultMessage =
+              decoded['detail']?.toString() ??
               'Prediction failed. Please check your values.';
         });
       }
@@ -282,7 +284,8 @@ class _CropPulseHomePageState extends State<CropPulseHomePage> {
       } else {
         setState(() {
           _trainingIsError = true;
-          _trainMessage = decoded['detail']?.toString() ??
+          _trainMessage =
+              decoded['detail']?.toString() ??
               'Retraining failed. Please verify the uploaded dataset.';
         });
       }
@@ -327,13 +330,9 @@ class _CropPulseHomePageState extends State<CropPulseHomePage> {
                         Row(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
-                            Expanded(
-                              child: _buildPredictionCard(),
-                            ),
+                            Expanded(child: _buildPredictionCard()),
                             const SizedBox(width: 24),
-                            Expanded(
-                              child: _buildRetrainCard(),
-                            ),
+                            Expanded(child: _buildRetrainCard()),
                           ],
                         )
                       else if (isTablet)
@@ -363,9 +362,7 @@ class _CropPulseHomePageState extends State<CropPulseHomePage> {
             if (_isTraining)
               Container(
                 color: Colors.black.withOpacity(0.36),
-                child: const Center(
-                  child: _LoadingOverlayCard(),
-                ),
+                child: const Center(child: _LoadingOverlayCard()),
               ),
           ],
         ),
@@ -377,7 +374,7 @@ class _CropPulseHomePageState extends State<CropPulseHomePage> {
     return _SectionCard(
       title: '#predict-production',
       subtitle:
-          'Enter the required values below to estimate crop production using the deployed regression model.',
+          'Enter the required values below to estimate crop production using the deployed regression model (it uses Random Forest Regression Model trained on the dataset).',
       child: Form(
         key: _formKey,
         child: Column(
@@ -407,8 +404,9 @@ class _CropPulseHomePageState extends State<CropPulseHomePage> {
             const SizedBox(height: 18),
             TextFormField(
               controller: _areaController,
-              keyboardType:
-                  const TextInputType.numberWithOptions(decimal: true),
+              keyboardType: const TextInputType.numberWithOptions(
+                decimal: true,
+              ),
               decoration: const InputDecoration(
                 labelText: 'Area harvested (ha)',
                 hintText: 'e.g. 150.5',
@@ -432,9 +430,7 @@ class _CropPulseHomePageState extends State<CropPulseHomePage> {
               value: _selectedCrop,
               isExpanded: true,
               dropdownColor: const Color(0xFF2A3040),
-              decoration: const InputDecoration(
-                labelText: 'Crop name',
-              ),
+              decoration: const InputDecoration(labelText: 'Crop name'),
               iconEnabledColor: Colors.white,
               selectedItemBuilder: (context) {
                 return _cropItems.map((crop) {
@@ -444,10 +440,7 @@ class _CropPulseHomePageState extends State<CropPulseHomePage> {
                       crop,
                       overflow: TextOverflow.ellipsis,
                       maxLines: 1,
-                      style: const TextStyle(
-                        fontSize: 15,
-                        color: Colors.white,
-                      ),
+                      style: const TextStyle(fontSize: 15, color: Colors.white),
                     ),
                   );
                 }).toList();
@@ -544,18 +537,12 @@ class _CropPulseHomePageState extends State<CropPulseHomePage> {
               children: [
                 const Text(
                   'Dataset upload',
-                  style: TextStyle(
-                    fontSize: 16,
-                    fontWeight: FontWeight.w700,
-                  ),
+                  style: TextStyle(fontSize: 16, fontWeight: FontWeight.w700),
                 ),
                 const SizedBox(height: 10),
                 const Text(
                   'Accepted file type: CSV\nExpected structure: Item, Year, Area (ha), Area Flag, Yield (hg/ha), Yield Flag, Production (tonnes), Production Flag',
-                  style: TextStyle(
-                    color: Color(0xFFABB2BF),
-                    height: 1.65,
-                  ),
+                  style: TextStyle(color: Color(0xFFABB2BF), height: 1.65),
                 ),
                 const SizedBox(height: 16),
                 Wrap(
@@ -584,9 +571,7 @@ class _CropPulseHomePageState extends State<CropPulseHomePage> {
                         child: Text(
                           _selectedFile!.name,
                           overflow: TextOverflow.ellipsis,
-                          style: const TextStyle(
-                            color: Color(0xFFABB2BF),
-                          ),
+                          style: const TextStyle(color: Color(0xFFABB2BF)),
                         ),
                       ),
                   ],
@@ -595,9 +580,7 @@ class _CropPulseHomePageState extends State<CropPulseHomePage> {
                   const SizedBox(height: 14),
                   const Text(
                     'No file selected yet.',
-                    style: TextStyle(
-                      color: Color(0xFFABB2BF),
-                    ),
+                    style: TextStyle(color: Color(0xFFABB2BF)),
                   ),
                 ],
               ],
@@ -668,21 +651,13 @@ class _HeaderSection extends StatelessWidget {
                 color: Colors.white,
               ),
             ),
-            Container(
-              width: 120,
-              height: 2,
-              color: const Color(0xFFC778DD),
-            ),
+            Container(width: 120, height: 2, color: const Color(0xFFC778DD)),
           ],
         ),
         const SizedBox(height: 14),
         const Text(
           'Crop production prediction and model retraining in one place.',
-          style: TextStyle(
-            fontSize: 16,
-            color: Color(0xFFABB2BF),
-            height: 1.7,
-          ),
+          style: TextStyle(fontSize: 16, color: Color(0xFFABB2BF), height: 1.7),
         ),
       ],
     );
@@ -708,9 +683,7 @@ class _SectionCard extends StatelessWidget {
       decoration: BoxDecoration(
         color: const Color(0xFF2A3040),
         borderRadius: BorderRadius.circular(22),
-        border: Border.all(
-          color: const Color(0xFFC778DD).withOpacity(0.75),
-        ),
+        border: Border.all(color: const Color(0xFFC778DD).withOpacity(0.75)),
         boxShadow: [
           BoxShadow(
             color: Colors.black.withOpacity(0.12),
@@ -731,10 +704,7 @@ class _SectionCard extends StatelessWidget {
             ),
           ),
           const SizedBox(height: 12),
-          const Divider(
-            color: Color(0xFFC778DD),
-            thickness: 0.7,
-          ),
+          const Divider(color: Color(0xFFC778DD), thickness: 0.7),
           const SizedBox(height: 12),
           Text(
             subtitle,
@@ -769,9 +739,7 @@ class _ResultPanel extends StatelessWidget {
         ? Colors.redAccent.withOpacity(0.7)
         : const Color(0xFFC778DD).withOpacity(0.75);
 
-    final bgColor = isError
-        ? const Color(0xFF3A2430)
-        : const Color(0xFF222836);
+    final bgColor = isError ? const Color(0xFF3A2430) : const Color(0xFF222836);
 
     return Container(
       width: double.infinity,
@@ -786,10 +754,7 @@ class _ResultPanel extends StatelessWidget {
         children: [
           Text(
             title,
-            style: const TextStyle(
-              fontWeight: FontWeight.w700,
-              fontSize: 15,
-            ),
+            style: const TextStyle(fontWeight: FontWeight.w700, fontSize: 15),
           ),
           const SizedBox(height: 10),
           Text(
@@ -815,18 +780,13 @@ class _FooterCard extends StatelessWidget {
       width: double.infinity,
       padding: const EdgeInsets.all(18),
       decoration: BoxDecoration(
-        border: Border.all(
-          color: const Color(0xFFC778DD).withOpacity(0.5),
-        ),
+        border: Border.all(color: const Color(0xFFC778DD).withOpacity(0.5)),
         borderRadius: BorderRadius.circular(16),
         color: const Color(0xFF2A3040),
       ),
       child: const Text(
         'Powered by the deployed Crop Production Prediction API.',
-        style: TextStyle(
-          color: Color(0xFFABB2BF),
-          fontSize: 14,
-        ),
+        style: TextStyle(color: Color(0xFFABB2BF), fontSize: 14),
       ),
     );
   }
@@ -843,9 +803,7 @@ class _LoadingOverlayCard extends StatelessWidget {
       decoration: BoxDecoration(
         color: const Color(0xFF2A3040),
         borderRadius: BorderRadius.circular(20),
-        border: Border.all(
-          color: const Color(0xFFC778DD).withOpacity(0.8),
-        ),
+        border: Border.all(color: const Color(0xFFC778DD).withOpacity(0.8)),
         boxShadow: [
           BoxShadow(
             color: Colors.black.withOpacity(0.2),
@@ -857,10 +815,7 @@ class _LoadingOverlayCard extends StatelessWidget {
       child: const Column(
         mainAxisSize: MainAxisSize.min,
         children: [
-          CircularProgressIndicator(
-            color: Color(0xFFC778DD),
-            strokeWidth: 3,
-          ),
+          CircularProgressIndicator(color: Color(0xFFC778DD), strokeWidth: 3),
           SizedBox(height: 18),
           Text(
             'Training the model...',
@@ -874,10 +829,7 @@ class _LoadingOverlayCard extends StatelessWidget {
           Text(
             'Please wait while the uploaded dataset is being processed.',
             textAlign: TextAlign.center,
-            style: TextStyle(
-              color: Color(0xFFABB2BF),
-              height: 1.6,
-            ),
+            style: TextStyle(color: Color(0xFFABB2BF), height: 1.6),
           ),
         ],
       ),
