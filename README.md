@@ -60,9 +60,9 @@ The prediction is handled by two main files:
 
 ```json
 {
-  "year": 2024,
-  "area_ha": 100.0,
-  "item_name": "Maize (corn)"
+  "year": 2015,
+  "area_ha": 234,
+  "item_name": "Avocados"
 }
 ```
 
@@ -70,11 +70,11 @@ The prediction is handled by two main files:
 
 ```json
 {
-  "The predicted production is": 250.5 tonnes
+  "The predicted production is": 7514.76 tonnes
 }
 ```
 
-You can test the API using Swagger UI at: `https://croppredictionproductionapi.onrender.com/docs`
+You can test the API using Swagger UI at: `https://croppredictionproductionapi.onrender.com/docs` ( mentioned above)
 
 ## Video Demo
 
