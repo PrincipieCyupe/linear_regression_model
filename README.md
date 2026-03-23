@@ -40,7 +40,7 @@ A publicly available API endpoint is provided for predictions:
 
 **Prediction Endpoint**: [https://croppredictionproductionapi.onrender.com/docs](https://cropproductionpredictionapi.onrender.com/docs)
 
-And next select **/predict** endpoint to return the prediction
+And next select **/predict** endpoint totry it out and return the prediction
 
 ### How It Works
 
