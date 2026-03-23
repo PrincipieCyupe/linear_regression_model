@@ -38,7 +38,7 @@ A prediction script is included that uses the best model to predict crop product
 
 A publicly available API endpoint is provided for predictions:
 
-**Prediction Endpoint**: [https://croppredictionproductionapi.onrender.com/docs](https://cropproductionpredictionapi.onrender.com/docs)
+**Prediction Endpoint**: [https://cropproductionpredictionapi.onrender.com/docs](https://cropproductionpredictionapi.onrender.com/docs)
 
 And next select **/predict** endpoint totry it out and return the prediction
 
@@ -74,7 +74,7 @@ The prediction is handled by two main files:
 }
 ```
 
-You can test the API using Swagger UI at: `https://croppredictionproductionapi.onrender.com/docs` ( mentioned above)
+You can test the API using Swagger UI at: `https://cropproductionpredictionapi.onrender.com/docs` ( mentioned above)
 
 ## Video Demo
 
