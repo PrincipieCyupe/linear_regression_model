@@ -6,7 +6,7 @@ My mission of modernizing the agriculture in Rwanda especially in my local commu
 
 ## Data Source
 
-The dataset I used is the **Rwanda Crop AgroVars Raw Data (2014-2020)**, collected from real local farmers in Rwanda. This dataset contains comprehensive agricultural data including area harvested, yield, and production for various crops grown in Rwanda.
+The dataset I used is the Rwanda Crop AgroVars Raw Data (2014-2020), collected from real local farmers in Rwanda. This dataset contains comprehensive agricultural data including area harvested, yield, and production for various crops grown in Rwanda.
 
 **Source**: https://figshare.com/articles/dataset/Crop_AgroVars_rawdata_Rwanda_2014-2020_csv/22574101?file=40057642
 
@@ -33,6 +33,91 @@ The **Random Forest Regressor** achieved the best performance based on MSE (Mean
 
 A prediction script is included that uses the best model to predict crop production based on user inputs (year, area, and crop type). You can check the last code cell in the notebook provided inside `summative/linear_regression/ directory` and see `predict_production()` function in the notebook.
 
+
+## API Endpoint
+
+A publicly available API endpoint is provided for predictions:
+
+**Prediction Endpoint**: `https://croppredictionproductionapi.onrender.com/predict`
+
+### How It Works
+
+The API accepts POST requests with the following input parameters:
+- `year` (int): Year of production (1900-2100)
+- `area_ha` (float): Area harvested in hectares (0-1,000,000)
+- `item_name` (str): Crop name (e.g., "Maize", "Beans", "Cassava")
+
+The prediction is handled by two main files:
+- **[`summative/API/prediction.py`](summative/API/prediction.py)**: Defines the FastAPI endpoints (`/predict` and `/retrain`) and handles HTTP requests
+- **[`summative/API/model_script.py`](summative/API/model_script.py)**: Contains the `predict_production()` function that loads the trained Random Forest model and returns predictions
+
+### Example Request
+
+```json
+{
+  "year": 2024,
+  "area_ha": 100.0,
+  "item_name": "Maize (corn)"
+}
+```
+
+### Example Response
+
+```json
+{
+  "The predicted production is": 250.5 tonnes
+}
+```
+
+You can test the API using Swagger UI at: `https://croppredictionproductionapi.onrender.com/docs`
+
+## Video Demo
+
+[Watch the YouTube video demo here](#)
+
+## How to Run the Mobile App (CropPulse)
+
+The mobile app is located in the `summative/FlutterApp/croppulse` directory. Follow these steps to run it:
+
+### Prerequisites
+
+1. **Install Flutter SDK**: Download and install Flutter from [flutter.dev](https://flutter.dev)
+2. **Android Studio or VS Code**: Install an IDE with Flutter support
+3. **Android Emulator or Physical Device**: For testing on Android
+
+### Installation Steps
+
+1. **Navigate to the app directory**:
+   ```bash
+   cd summative/FlutterApp/croppulse
+   ```
+
+2. **Get dependencies**:
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app**:
+   ```bash
+   flutter run
+   ```
+
+### Using the App
+
+1. **Launch the app** - The CropPulse app will open with a dark-themed interface
+2. **Enter the Year** - Input the year for prediction (e.g., 2024)
+3. **Enter the Area** - Input the area harvested in hectares (e.g., 100.0)
+4. **Select a Crop** - Choose from the dropdown list of available crops (e.g., Maize, Beans, Cassava)
+5. **Get Prediction** - Tap the "Predict Production" button to get your prediction
+6. **View Result** - The predicted production in tonnes will be displayed
+
+### Optional: Retrain the Model
+
+The app also allows you to retrain the model with new data:
+1. Tap the "Upload CSV" button
+2. Select a CSV file with the required format (columns: Item, Year, Area (ha), Area Flag, Yield (hg/ha), Yield Flag, Production (tonnes), Production Flag)
+3. Tap "Retrain Model" to retrain with the new data
+
 ## Files Structure
 
 ```
@@ -42,5 +127,8 @@ linear_regression_model/
 │   ├── linear_regression/
 │   │   ├── multivariate.ipynb
 │   ├── API/
+│   │   ├── prediction.py
+│   │   ├── model_script.py
 │   ├── FlutterApp/
+│   │   ├── croppulse/...
 ```
