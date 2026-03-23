@@ -38,8 +38,9 @@ A prediction script is included that uses the best model to predict crop product
 
 A publicly available API endpoint is provided for predictions:
 
-**Prediction Endpoint**: [https://croppredictionproductionapi.onrender.com/predict](https://cropproductionpredictionapi.onrender.com/docs)
-ANd next select **/predict** endpoint to return the prediction
+**Prediction Endpoint**: [https://croppredictionproductionapi.onrender.com/docs](https://cropproductionpredictionapi.onrender.com/docs)
+
+And next select **/predict** endpoint to return the prediction
 
 ### How It Works
 
