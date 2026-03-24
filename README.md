@@ -78,7 +78,7 @@ You can test the API using Swagger UI at: `https://cropproductionpredictionapi.o
 
 ## Video Demo
 
-[Watch the YouTube video demo here](#)
+[Watch the YouTube video demo here](https://youtu.be/WeoYU65GUhg)
 
 ## How to Run the Mobile App (CropPulse)
 
